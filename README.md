@@ -1,7 +1,7 @@
 # 1. Présentation du projet :
 ### 1.1 Objectifs généraux du projet : 
 > Dans le cadre de la matière « POO Java 1 & Mini-Projet », les étudiants sont invités à réaliser un mini-projet de conception et de programmation d’une application informatique pour la gestion d’une bibliothèque. Ce projet est réalisé par SLAMA Khairi. Ce projet contient l’analyse, la conception et l’implémentation d’un système de gestion du fonds de livres, des articles et des magazines scientifiques d’une bibliothèque et du prêt de ce fond à ses adhérents.
-# 1.2 Expression de la problématique :
+### 1.2 Expression de la problématique :
 
   - La bibliothèque contient un certain nombre de documents disponibles à la consultation ou à l’emprunt ; les personnes désirant emprunter des documents pour une durée donnée doivent être ajoutées en tant que adhérents.
   - Chaque adhérent est caractérisé par un nom et un prénom, un identifiant, une adresse et un type (étudiant, enseignant ou un visiteur) qui conditionne les critères d’emprunts suivants : le nombre de documents empruntables et la durée de prêt.
