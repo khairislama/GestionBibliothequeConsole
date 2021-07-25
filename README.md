@@ -17,7 +17,7 @@
   -     L’adhérent ne peut pas emprunter plus d’un nombre fixé par son type (par exemple 2 pour étudiant et 4 pour enseignant et 1 pour visiteur). Dès que ce nombre maximal est atteint pour un adhérent, tout nouveau prêt devra être impossible.
   -     Tout adhérent qui n’a pas restitué un document avant sa date limite est marqué par le système comme retardataire, ne pourra plus faire de nouvel emprunt tant qu’il n’a pas régularisé sa situation, ceci même si le nombre maximal d’emprunts n’est pas atteint. Pour ce faire, le système parcoure l’ensemble des fiches emprunt chaque jour à l’ouverture, afin de repérer s’il existe des documents pour lesquels la date limite de restitution est dépassée.
   -     La durée est précisée selon le type de l’adhérent (par exemple pour un étudiant 1 semaine, pour un enseignant 3 semaines, pour un visiteur 1 semaine).
-  - Le système de gestion doit prévoir toute opération de gestion des adhérents et des documents :
+  - Le système de gestion doit.prévoir toute opération de gestion des adhérents et des documents :
  ```sh
        o	L’ajout en respectant l’ordre des identifiants.
        o	La suppression à partir de l’identifiant
